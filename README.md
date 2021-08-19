@@ -55,7 +55,6 @@
   <a href="https://www.linkedin.com/in/arthurmayan/">
   <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank ">
 </a> 
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white href="be.cavanellas@gmail.com"/>
   <a href="https://www.instagram.com/arthurmayan/"> <img src =https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/> 
 </p>
 
