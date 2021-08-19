@@ -50,3 +50,14 @@
 
 </p>
 
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/arthurmayan/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
+
+ <a href="https://www.instagram.com/arthurmayan/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge & logo = instagram & logoColor = white "target =" _ blank "> </a>
+ 
+<a href = "mailto:arthurmayan99@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+
+</p>
+
