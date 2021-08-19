@@ -52,6 +52,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmayan&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthurmayan" /></p>
 
+<br><br>
+
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arthurmayan/">
