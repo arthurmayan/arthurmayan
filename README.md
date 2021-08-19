@@ -55,6 +55,9 @@
   <a href="https://www.linkedin.com/in/arthurmayan/">
   <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank ">
 </a> 
-  <a href="https://www.instagram.com/arthurmayan/"> <img src =https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/> 
-</p>
+  <a href="https://www.instagram.com/arthurmayan/"> <img src =https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/>
+   <a href="wa.me/553592223912">
+  <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a> 
+  
 
