@@ -50,14 +50,10 @@
 
 </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/arthurmayan/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-<a href="https://www.instagram.com/arthurmayan/"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge & logo = instagram & logoColor = white "> </a>
-  
-<a href = "mailto:arthurmayan99@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white href="https://www.linkedin.com/in/arthurmayan//"/>
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white href="arthurmayan99@gmail.com"/>
+  <a href="https://www.instagram.com/arthurmayan/"> <img src =https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/> 
 </p>
 
