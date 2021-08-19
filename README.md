@@ -53,7 +53,7 @@
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
   
-  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white href="https://www.linkedin.com/in/arthurmayan/"/>
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white href="https://www.linkedin.com/in/arthurmayan//"/>
   <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white href="arthurmayan99@gmail.com"/>
   <a href="https://www.instagram.com/arthurmayan/"> <img src =https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/> 
     
